@@ -10,9 +10,7 @@ module.exports = {
       },
       name: {
         allowNull: false,
-        type: Sequelize.STRING,
-        // SOLUCION
-        unique: true
+        type: Sequelize.STRING
       },
       createdAt: {
         allowNull: false,
