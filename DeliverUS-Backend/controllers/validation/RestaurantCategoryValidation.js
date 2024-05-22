@@ -1,4 +1,3 @@
-// SOLUCION
 const { check } = require('express-validator')
 const { RestaurantCategory } = require('../../models')
 
